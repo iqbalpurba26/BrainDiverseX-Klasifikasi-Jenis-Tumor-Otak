@@ -7,7 +7,7 @@ BrainDiverseX merupakan website yang dapat mengklasifikasikan jenis tumor otak (
 1. Kloning Repositori Ini
 
 ```
-
+https://github.com/iqbalpurba26/BrainDiverseX-Klasifikasi-Jenis-Tumor-Otak
 ```
 
 2. Download PyCharm pada link berikut : [DOWNLOAD](https://www.jetbrains.com/pycharm/download/?section=windows)
