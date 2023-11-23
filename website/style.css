@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&family=Poppins&family=Righteous&family=Silkscreen&family=Source+Serif+Pro&family=ZCOOL+XiaoWei&family=Zilla+Slab:wght@500&display=swap');
+
+*{
+    font-family: 'Philosopher', sans-serif;
+    overflow-x: hidden;
+}
+#navBarP {
+    background-color: #5b55f6;    
+}
+
+#navBarP .container ul li a:hover{
+    background-color:#0700ce ;
+    border-radius: 5px;
+    
+}
+
+.carousel1 {
+    padding-bottom: 10%;
+}
+
+#CarouselText {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#judul {
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+#pemberitahuan {
+    padding-top: 200px;
+    margin-top: 50px;
+}
+
+#klasifikasi {
+    padding-top: 200px;
+    margin-top: 50px;
+}
+
+
+#btn_klasifikasi {
+    margin-top: 50px;
+    padding: 8px;
+}
+
+#list {
+    padding-left: 100px;
+}
+
+
+#about {
+    padding: 200px;
+    margin-top: 50px;
+}
+
+#judulBesar {
+    font-weight: bolder;
+    font-size: 40px;
+}
+
+
+#btnInfo {
+    background-color: #5b55f6;
+    color: rgb(255, 254, 254);
+}
+
+#btnInfo:hover {
+    background-color: #0700ce;
+    color: rgb(255, 254, 254);
+}
+
+#jabatan {
+    font-size: 3rem;
+}
+
+#contact {
+    padding: 100px;
+    margin-top: 50px;
+}
+
+
+
+section#footer {
+    text-align: center;
+    background-color:#5b55f6;
+    font-size: 18px;
+    color: whitesmoke;
+    padding: 10px 10px;
+}
