@@ -1,0 +1,2 @@
+# Auto detect text files and perform LF normalization
+tumor-brain.h5 filter=lfs diff=lfs merge=lfs -text
